@@ -1,2 +1,6 @@
 Hola
 Buen dia
+ 
+Prioridades
+- Estudiar GIT
+- Practicar GITHUB
